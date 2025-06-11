@@ -1,0 +1,10 @@
+Hello,
+My name is Alect. I am an active white hat hacker.
+I immediately ran several tests using the KaliGPT I created, and
+found that it was possible to download files that may have been uploaded during customization.
+I have compiled the fixes in kaligpt_bug_report.zip.
+The password for the ZIP file is k4l16p7.
+Please fix this issue.
+
+About me
+URL / https://github.com/Alecto-Fsociety
